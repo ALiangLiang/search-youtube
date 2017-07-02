@@ -1,5 +1,6 @@
 {
   "name": "Search Youtube™",
+  "description": "It's convenient to search youtube in search-bar of browser. Just type \"yt\" and press \"tab\" key.",
   "background": {
     "persistent": false,
     "page": "background.html"
@@ -10,9 +11,10 @@
     "16": "icons/icon16.png"
   },
   "omnibox": {
-    "keyword": "youtube"
+    "keyword": "yt"
   },
-  "version": "0.9.487",
-  "content_security_policy": "script-src 'self' https://apis.google.com; object-src 'self'",
+  "permissions": ["tabs"],
+  "version": "0.94.87",
+  "content_security_policy": "script-src 'self' https://apis.google.com https://ssl.google-analytics.com; object-src 'self'",
   "manifest_version": 2
 }
