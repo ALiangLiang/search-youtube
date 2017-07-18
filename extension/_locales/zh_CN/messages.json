@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "搜寻 Youtube™",
+    "description": "产品名称"
+  },
+  "extDescription": {
+    "message": "让你在浏览器的搜寻栏中，输入「youtube」后按下 tab 键，就可以「直接搜寻」并开启 youtube 页面。",
+    "description": "产品叙述"
+  }
+}

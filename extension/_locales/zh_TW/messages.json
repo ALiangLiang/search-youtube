@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "搜尋 Youtube™",
+    "description": "產品名稱"
+  },
+  "extDescription": {
+    "message": "讓你在瀏覽器的搜尋欄中，輸入「youtube」後按下 tab 鍵，就可以「直接搜尋」並開啟 youtube 頁面。",
+    "description": "產品敘述"
+  }
+}
